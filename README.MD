@@ -7,7 +7,7 @@ https://github.com/amitesh18896/-Sorting-Visualizer/blob/main/Sorting-Visualizer
 ## Bubble Sort Sample
 
 ### During sort
-![clone images](/sorting.png)
+https://github.com/amitesh18896/-Sorting-Visualizer/blob/main/Sorting-Visualizer-main/Sorting-Visualizer-main/sorting-visulaizer.png
 
 ### Sorting Completed
 ![clone images](/sorting-visulaizer.png)
