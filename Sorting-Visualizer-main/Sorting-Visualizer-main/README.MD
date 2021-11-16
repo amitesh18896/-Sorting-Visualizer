@@ -9,4 +9,4 @@ https://github.com/amitesh18896/-Sorting-Visualizer/blob/main/Sorting-Visualizer
 https://github.com/amitesh18896/-Sorting-Visualizer/blob/main/Sorting-Visualizer-main/Sorting-Visualizer-main/sorting-visulaizer.png
 
 ### Sorting Completed
-![clone images](/sorting-visulaizer.png)
+https://github.com/amitesh18896/-Sorting-Visualizer/blob/main/Sorting-Visualizer-main/Sorting-Visualizer-main/sorting.png
